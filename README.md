@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Bastian and I'm a Developper/Pentester, from France</h2>
+<h2 align="left">Hi 👋! My name is Bastian and I'm a Developper/Pentester, from France 🇫🇷</h2>
 
 ###
 
